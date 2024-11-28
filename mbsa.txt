@@ -1,0 +1,6 @@
+Keras==2.10.0
+tensorboard==2.10.1
+tensorflow==2.10.1
+numpy==1.26.4
+scikit-learn
+opencv-python
